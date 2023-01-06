@@ -1,4 +1,5 @@
 # Python-Project
+
 liste= [[2],[[4],'a'],['cat'],[6],8,'dog']
 l=[]
 def flatten (n):
